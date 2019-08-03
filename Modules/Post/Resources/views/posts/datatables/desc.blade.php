@@ -1,0 +1,1 @@
+{{ str_limit($desc,90) }}

@@ -1,0 +1,25 @@
+<?php
+
+return [
+	'admins' => 'Admins',
+	'full_name' => 'Full Name',
+	'id' => 'ID',
+	'email' => 'Email',
+	'image' => 'Image',
+	'password' => 'Password',
+	'admin' => 'Admin',
+	'logged_success' => 'Login Successfully',
+    'home' => 'Home',
+    'export' => 'export',
+    'print' => 'print',
+    'add_admin' => 'Add Admin',
+    'edit_admin' => 'Edit Admin',
+    'name' => 'name',
+    'our_location'=>'Our Location',
+    'works_hour'=>'Works Hour',
+    'login'=>'Login',
+    'works_hour_message'=>'In 24 Hours',
+    'add_ads' => 'Add New Trip',
+    'control_panel' => 'Control Panel',
+    'categories' => 'categories',
+];

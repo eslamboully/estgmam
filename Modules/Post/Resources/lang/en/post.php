@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'id' => 'Id',
+    'desc'=>'Description',
+    'status'=> 'Status',
+    'image'=>'Image',
+    'posts'=>'Ads',
+    'created_and_continue_to_choose_album'=>'Created Success And Continue To Album',
+    'active' => 'Active',
+    'pending'=> 'Pending',
+    'click_to_active'=>'Click To Active',
+    'click_to_pending'=>'Click To Pending',
+    'date' => 'date',
+    'currency' => 'currency',
+    'money' => 'money',
+    'choose_plan' => 'choose plan',
+    'album' => 'Photo Album',
+    'album_default_message' => 'Click to upload or pull it here',
+    'photo1' => 'first Photo',
+    'photo2' => 'second Photo',
+    'photo3' => 'third Photo',
+    'photo4' => 'fourth Photo',
+    'photo5' => 'fifth Photo',
+    'photo6' => 'sixth Photo',
+    'plans' => 'plans',
+];
